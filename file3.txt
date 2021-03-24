@@ -1,1 +1,2 @@
 line in file 3
+some text from add-feature1
